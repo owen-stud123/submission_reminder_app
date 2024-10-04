@@ -1,8 +1,0 @@
-Students, Assignments, Submission
-Peter, Shell Navigation, submitted
-Shema, Shell Navigation, no submition
-Kate, shell Navigation, submitted
-Tom, shell Navigation, no submition
-David, Shell Navigation, submitted
-Enock, Shell Navigation, no submition
-Mike, Shell Navigation, submitted
